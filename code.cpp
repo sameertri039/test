@@ -1,7 +1,8 @@
-#incldue <iostream>
-using namespace sdt;
+#incldue <bits/stdc++.h>
+using namespace std;
 
-int main(){
+int main()
+{
     int n;
     cin >> n;
     cout << n + 1 << endl;
